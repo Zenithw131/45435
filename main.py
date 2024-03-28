@@ -24,3 +24,6 @@ if __name__ == '__main__':
     print_hi('Hello World')
 
     print_hi('PyCharm')
+
+
+  print_hi('PyCharmrwerwer')
